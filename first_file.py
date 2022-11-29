@@ -1,0 +1,7 @@
+print('hello_world')
+print('hello_world_1')
+print('hello_world_2')
+print('hello_world_3')
+print('hello_world_4')
+print('hello_world_5')
+print('hello_world_6')
